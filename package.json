@@ -1,6 +1,6 @@
 {
-  "name": "json-stringify-safe",
-  "version": "5.1.0",
+  "name": "json-stringify-safe-fork",
+  "version": "5.1.2",
   "description": "Like JSON.stringify, but doesn't blow up on circular refs and BigInts.",
   "keywords": [
     "json",
